@@ -1,2 +1,5 @@
 # Socket Tester
  Tester software for TCP/UDP client and server. Made in QT5
+
+## Description
+Socket Tester is a comprehensive testing tool designed to validate the functionality and performance of socket-based communication in diverse networking environments. Featuring a user-friendly interface and a customizable testing framework, Socket Tester enables developers and network administrators to conduct thorough evaluations of socket connections, including latency measurements, throughput analysis, and stress testing. Supporting both client and server modes, Socket Tester facilitates the simulation of various network scenarios to assess the robustness and reliability of socket-based applications. Whether troubleshooting network issues, optimizing application performance, or conducting pre-deployment assessments, Socket Tester serves as an invaluable resource for ensuring the seamless operation of socket-based systems.
